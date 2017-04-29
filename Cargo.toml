@@ -1,0 +1,7 @@
+[package]
+name = "EGH456_Logger"
+version = "0.1.0"
+authors = ["Nathan Perkins <NathanielJPerkins@gmail.com>"]
+
+[dependencies]
+serial = "0.3"
